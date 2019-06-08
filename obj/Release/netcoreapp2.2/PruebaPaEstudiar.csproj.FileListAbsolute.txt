@@ -1,0 +1,5 @@
+/home/gerpc/Projects/PruebaPaEstudiar/PruebaPaEstudiar/obj/Release/netcoreapp2.2/PruebaPaEstudiar.csproj.CoreCompileInputs.cache
+/home/gerpc/Projects/PruebaPaEstudiar/PruebaPaEstudiar/obj/Release/netcoreapp2.2/PruebaPaEstudiar.AssemblyInfoInputs.cache
+/home/gerpc/Projects/PruebaPaEstudiar/PruebaPaEstudiar/obj/Release/netcoreapp2.2/PruebaPaEstudiar.AssemblyInfo.cs
+/home/gerpc/Projects/PruebaPaEstudiar/PruebaPaEstudiar/obj/Release/netcoreapp2.2/PruebaPaEstudiar.dll
+/home/gerpc/Projects/PruebaPaEstudiar/PruebaPaEstudiar/obj/Release/netcoreapp2.2/PruebaPaEstudiar.pdb
